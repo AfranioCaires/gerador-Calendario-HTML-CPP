@@ -1,6 +1,6 @@
 # Trabalho Prático: Algoritmos e estruturas de dados;
 ### Preview 
-[Fotografia de um documento HTML gerado](/preview.png)
+![Fotografia de um documento HTML gerado](/preview.png)
 ## Geração de Calendários em arquivo HTML
 - Primeiro faça um procedimento que receba como parâmetro um mês e um ano, e então gere um arquivo HTML com o calendário daquele mês. O procedimento deve usar uma matriz para
 armazenar os dados do calendário.
